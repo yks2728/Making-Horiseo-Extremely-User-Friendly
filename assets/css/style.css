@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Condensed .header div and .header ul */
 .header div, .header ul {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,7 +32,7 @@ body {
     font-size: 20px;
     list-style-type: none;
 }
-
+/* End of Condensing */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -83,6 +83,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Condensed all aspects of .benefit-lead, .benefit-brand, and .benefit-cost */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -98,7 +99,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of Condensing */
 
+/* Condensed all aspects of .search-engine-optimization, .online-reputation-management, and .social-media-marketing */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,6 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Condensing */
 
 .footer {
     padding: 30px;
